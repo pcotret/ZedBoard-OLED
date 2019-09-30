@@ -36,3 +36,7 @@ documentation.
 [ZedBoard Product Page]: http://zedboard.org/product/zedboard
 [Xilinx Vivado Design Suite]: http://www.xilinx.com/products/design-tools/vivado.html
 [Digilent Pmod OLED Resource Center]: http://store.digilentinc.com/pmod-oled-128-x-32-pixel-monochromatic-oled-display/
+
+## Known issues
+Sometimes, the OLED screen just displays some "snow flakes". MAybe a bug in this driver...
+The only solution found by now it to run the Zedboard OLED Demo given by Digilentinc once https://reference.digilentinc.com/learn/programmable-logic/tutorials/zedboard-oled-demo/start#display_strings
